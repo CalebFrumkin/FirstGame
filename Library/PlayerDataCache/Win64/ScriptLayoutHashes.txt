@@ -1,9 +1,13 @@
 Win64
 PlayerPath?
-C:/Users/Caleb/Documents/1 IMPORTANT/HackingAround/FirstProject/Game/FirstProject.exe
+C:/Users/Caleb/Documents/1 IMPORTANT/HackingAround/FirstGame/Game/FirstProject.exe
 SceneListBegin?
+Assets/Scenes/OpeningScreen.unity
 Assets/Scenes/Level01.unity
 Assets/Scenes/Level02.unity
+Assets/Scenes/Level03.unity
+Assets/Scenes/Level04.unity
+Assets/Scenes/Level05.unity
 Assets/Scenes/EndScreen.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -115,6 +119,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Restart
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
@@ -165,4 +170,4 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 62e040979f1bcc5cfdb183bf34b809bf Assembly-CSharp.dll:.EndTrigger
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.LevelComplete
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Restart
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.startButton
